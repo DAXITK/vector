@@ -104,16 +104,6 @@ exit
 
 ---
 
-## 🎓 Contributors
-- Gurjot Singh
-- Saqib Shah
-- Swara Desai
-- Swagi Desai
-- Jaideep Singh
-- Dakshitkumar Kamaria
-
----
-
 ## 🌟 Future Work
 - `DELETE` and `UPDATE` support
 - Hybrid queries (e.g., `TEXT = ... AND category = ...`)
